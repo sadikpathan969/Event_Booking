@@ -43,3 +43,14 @@ npm start
 ```
 
 This will start the Expo bundler. From there, you can use the Expo Go app on your physical phone or an emulator to test out the mobile interface.
+
+## Screenshots
+
+### Home Page
+![Home](./Screenshots/Home.png)
+
+### Login Page
+![Login](./Screenshots/Register.png)
+
+### Booking Page
+![Booking](./Screenshots/Booking.png)
